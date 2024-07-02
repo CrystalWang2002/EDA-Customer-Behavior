@@ -1,2 +1,2 @@
-# Very detailed EDA process on consumer purchase data！！
+# Detailed EDA process on consumer purchase data
 # Link：
